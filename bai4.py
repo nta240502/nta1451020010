@@ -1,0 +1,5 @@
+n = input("Nhập giá trị: ")
+i = n.split(".")
+t = tuple(i)
+print(i)
+print(t)
